@@ -1,30 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="361.244mm" height="52.2111mm" viewBox="0 0 1024 148" version="1.2" baseProfile="tiny">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="314" height="148" version="1.2" baseProfile="tiny" viewBox="">
 <title>The Sei Protection Squad</title>
 <desc>Art © The Dark World Network Ltd. t/a PokéFarm 2009-2016</desc>
 <defs>
 </defs>
 <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel">
 
-<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)" font-family="Helvetica" font-size="12" font-weight="400" font-style="normal">
-<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L1024,0 L1024,148 L0,148 L0,0"/>
-<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L1024,0 L1024,148 L0,148 L0,0"/>
-</g>
+
 
 <g fill="#640a96" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,-288,-5)" font-family="Helvetica" font-size="12" font-weight="400" font-style="normal">
 <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M318,13 L581,13 C587.624,13 593,18.376 593,25 L593,123 C593,129.624 587.624,135 581,135 L318,135 C311.376,135 306,129.624 306,123 L306,25 C306,18.376 311.376,13 318,13 "/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)" font-family="Helvetica" font-size="12" font-weight="400" font-style="normal">
 
-</g>
 
 <g fill="#640a96" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,-293,5)" font-family="Helvetica" font-size="12" font-weight="400" font-style="normal">
 <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M313,13 L576,13 C582.624,13 588,18.376 588,25 L588,123 C588,129.624 582.624,135 576,135 L313,135 C306.376,135 301,129.624 301,123 L301,25 C301,18.376 306.376,13 313,13 "/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)" font-family="Helvetica" font-size="12" font-weight="400" font-style="normal">
 
-</g>
 
 <g fill="#640a96" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,-293,-5)" font-family="Helvetica" font-size="12" font-weight="400" font-style="normal">
 <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M313,13 L576,13 C582.624,13 588,18.376 588,25 L588,123 C588,129.624 582.624,135 576,135 L313,135 C306.376,135 301,129.624 301,123 L301,25 C301,18.376 306.376,13 313,13 "/>
